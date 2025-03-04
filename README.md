@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<h1 align="center"> I'm Alvin Musonye</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+ I'm Alvin Musonye
+
 
 - 🔭 I’m currently working on **Music App**
 
