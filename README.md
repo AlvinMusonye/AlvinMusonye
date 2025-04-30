@@ -3,11 +3,11 @@
  I'm Alvin Musonye
 
 
-- 🔭 I’m currently working on **Music App**
+- 🔭 I’m currently working on **NRT App**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Django**
 
-- 👯 I’m looking to collaborate on **Ecommerce Website**
+- 👯 I’m looking to collaborate on **Any software solution**
 
 - 📫 How to reach me **alvinmusonye@gmail.com**
 
