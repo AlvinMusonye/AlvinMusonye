@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm Alvin Musonye</h1>
-- 🔭 I’m currently working on **Music App**
+<h1>Hi There, </h1>
 
-- 🌱 I’m currently learning **React**
+<h5>I'm Alvin Musonye</h5>
 
-- 👯 I’m looking to collaborate on **Ecommerce Website**
+- 🔭 I’m currently working on **NRT App**
+
+- 🌱 I’m currently learning **Django**
+
+- 👯 I’m looking to collaborate on **Any software solution**
 
 - 📫 How to reach me **alvinmusonye@gmail.com**
 
