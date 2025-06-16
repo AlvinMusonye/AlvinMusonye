@@ -12,7 +12,7 @@
 
 ## 🎯 About Me
 
-- 🔭 **Currently Building:** [NRT App](https://github.com/alvinmusonye/nrt-app) - Making transportation smarter
+- 🔭 **Currently Building:** [kujaNow](https://github.com/alvinmusonye/kujaNow) - Making transportation smarter
 - 🌱 **Learning:** Django & Advanced Backend Architecture
 - 👯 **Open to:** Collaborating on impactful software solutions
 - 💡 **Passion:** Creating applications that solve real-world problems
