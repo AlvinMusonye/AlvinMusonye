@@ -1,8 +1,8 @@
-# Hi There! 👋 I'm Alvin Musonye
+# Hi There!  I'm Alvin Musonye
 
 <div align="center">
   
-### 🚀 Fullstack Developer | Building Digital Solutions That Matter
+###  Fullstack Developer | Building Digital Solutions That Matter
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;React+%2B+Django+Enthusiast;Problem+Solver;Always+Learning%2C+Always+Building!)
 
@@ -10,17 +10,17 @@
 
 ---
 
-## 🎯 About Me
+##  About Me
 
-- 🔭 **Currently Building:** [kujaNow](https://github.com/alvinmusonye/kujaNow) - Making transportation smarter
-- 🌱 **Learning:** Django & Advanced Backend Architecture
-- 👯 **Open to:** Collaborating on impactful software solutions
-- 💡 **Passion:** Creating applications that solve real-world problems
-- 📫 **Reach me:** [alvinmusonye@gmail.com](mailto:alvinmusonye@gmail.com)
+-  **Currently Building:** [kujaNow](https://github.com/alvinmusonye/kujaNow) - Making transportation smarter
+-  **Learning:** Django & Advanced Backend Architecture
+-  **Open to:** Collaborating on impactful software solutions
+-  **Passion:** Creating applications that solve real-world problems
+-  **Reach me:** [alvinmusonye@gmail.com](mailto:alvinmusonye@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -55,11 +55,11 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
-### 🚌 NRT App
+###  NRT App
 **Real-time Transportation Tracker**
 
 A React Native application that helps users track public transportation in real-time, making commuting more efficient and predictable.
@@ -72,7 +72,7 @@ A React Native application that helps users track public transportation in real-
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvinmusonye&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -85,7 +85,7 @@ A React Native application that helps users track public transportation in real-
 
 ---
 
-## 🌐 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
@@ -97,7 +97,7 @@ A React Native application that helps users track public transportation in real-
 
 ---
 
-## 💼 What I Bring to the Table
+##  What I Bring to the Table
 
 - **. Frontend Excellence:** Creating responsive, user-friendly interfaces with React & React Native
 - **. Backend Mastery:** Building robust APIs and server-side logic with Django, Flask & Node.js  
@@ -109,7 +109,7 @@ A React Native application that helps users track public transportation in real-
 
 <div align="center">
 
-### 🔥 Open to New Opportunities
+###  Open to New Opportunities
 
 **Let's build something amazing together!**
 
@@ -120,5 +120,5 @@ A React Native application that helps users track public transportation in real-
 ---
 
 <div align="center">
-  <i>💡 "Code is like humor. When you have to explain it, it's bad." - Let's write code that speaks for itself!</i>
+  <i> "Code is like humor. When you have to explain it, it's bad." - Let's write code that speaks for itself!</i>
 </div>
